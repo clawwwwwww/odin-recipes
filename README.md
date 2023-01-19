@@ -1,1 +1,3 @@
 # odin-recipes
+I was able to refresh the basic HTML I learned in Web Design 1 in college. Some HTML5 is harder for me as I originally began dabbling in HTML starting in around 2002, meaning I learned HTML4 and some habits such as adding alt text or not using "b", "br", and "i" tags are hard to break. I am also praciticing navigating the command line to create, move and copy files.
+I had my first major troubleshooting session of TOP so far: I could not get my changes to commit to GitHub at all and was recieving a fatal error. I took advice I had seen online about needing to take a break and come at it with fresh eyes the next day, where I found my solution: my odin-recipes files were in my home folder, not in my repos.
